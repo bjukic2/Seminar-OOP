@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/64x64.png</file>
+        <file>images/Copy.bmp</file>
+        <file>images/Cut.bmp</file>
+        <file>images/download.png</file>
+        <file>images/exit-14.png</file>
+        <file>images/New.bmp</file>
+        <file>images/Open.bmp</file>
+        <file>images/Paste.bmp</file>
+        <file>images/Save.bmp</file>
+        <file>images/undo-6-128x128.png</file>
+    </qresource>
+</RCC>
